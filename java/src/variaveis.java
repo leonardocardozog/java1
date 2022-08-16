@@ -9,6 +9,7 @@ int cep = 21070333;
 long cpf = 98765432109l;
 float pi = 3.14f; 
 double salariO = 1275.33;
+int numero = 5;
     
 System.out.println(+idade);
 System.out.println(+ano);
