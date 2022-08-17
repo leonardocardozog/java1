@@ -9,7 +9,7 @@ int cep = 21070333;
 long cpf = 98765432109l;
 float pi = 3.14f; 
 double salariO = 1275.33;
-int numero = 5;
+//int numero = 5;
     
 System.out.println(+idade);
 System.out.println(+ano);
@@ -19,15 +19,5 @@ System.out.println(+pi);
 System.out.print(+salariO);
 
   }
-  public class exemplovariavel
-public static void main(String[] args) {
-    final double VALOR_DE_PI - 3.14;
-    VALOR_DE_PI=3.15;
-    
-  }
-   {
-  
-    
-  }
 
-}
+  }
