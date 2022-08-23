@@ -23,7 +23,7 @@ public class conversores {
         double d2 = 10000.58d; // downcas cabe dentro do float
 
         f2 = (float) d2;
-        double d3 = 10000.58888888888888888888888888888888888888888888; //houe perda de informação
+        double d3 = 10000.58888888888888888888888888888888888888888888; //houve perda de informação
         f3 = (float) d3;
 
         int i4;
